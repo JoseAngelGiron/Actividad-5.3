@@ -92,9 +92,17 @@ public class CalculadoraTest {
         assertEquals(1,miCalculadora.raizCuadrada(1));
         assertEquals(0,miCalculadora.raizCuadrada(0));
         assertEquals(2,miCalculadora.raizCuadrada(4));
+        Exception thrown = assertThrows(Exception.class, () -> {
+            miCalculadora.raizCuadrada(-1);
+        });
+
+        assertEquals("El radicando no puede ser negativo", thrown.getMessage());
 
 
     }
+
+
+
 
 
 }
