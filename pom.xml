@@ -34,7 +34,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/JoseAngelGiron/Actividad-5.3.git</url>
+            <url>https://maven.pkg.github.com/JoseAngelGiron/Actividad-5.3</url>
         </repository>
     </distributionManagement>
 
