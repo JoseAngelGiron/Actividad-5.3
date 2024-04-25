@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="252622cf-090b-4ffd-af5f-7aaeee6975ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="252622cf-090b-4ffd-af5f-7aaeee6975ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,6 +189,7 @@
       <workItem from="1713985020077" duration="122000" />
       <workItem from="1713987074011" duration="97000" />
       <workItem from="1714032366292" duration="1891000" />
+      <workItem from="1714071974209" duration="385000" />
     </task>
     <servers />
   </component>
@@ -207,7 +206,7 @@
     <SUITE FILE_PATH="coverage/Calculadora$CalculadoraTest_testDivisionPorCero.ic" NAME="CalculadoraTest.testDivisionPorCero Coverage Results" MODIFIED="1713800429322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>dam.ed.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Calculadora$CalculadoraTest_testSuma.ic" NAME="CalculadoraTest.testSuma Coverage Results" MODIFIED="1713804194070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Calculadora$CalculadoraTest_testSuma.ic" NAME="CalculadoraTest.testSuma Coverage Results" MODIFIED="1714072045416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>dam.ed.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Calculadora$CalculadoraTest.ic" NAME="CalculadoraTest Coverage Results" MODIFIED="1713856361224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

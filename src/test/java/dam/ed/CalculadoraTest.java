@@ -21,7 +21,7 @@ public class CalculadoraTest {
     @Test
     @DisplayName("Suma dos números")
     void testSuma() {
-        assertEquals(12, miCalculadora.suma(4,2));
+        assertEquals(6, miCalculadora.suma(4,2));
         assertEquals(2, miCalculadora.suma(4,-2));
         assertEquals(-6, miCalculadora.suma(-4,-2));
         assertEquals(6.8, miCalculadora.suma(3.8,3));
