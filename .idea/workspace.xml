@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="252622cf-090b-4ffd-af5f-7aaeee6975ed" name="Changes" comment="" />
+    <list default="true" id="252622cf-090b-4ffd-af5f-7aaeee6975ed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dam/ed/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dam/ed/Calculadora.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +193,11 @@
       <workItem from="1713985020077" duration="122000" />
       <workItem from="1713987074011" duration="97000" />
       <workItem from="1714032366292" duration="1891000" />
-      <workItem from="1714071974209" duration="385000" />
+      <workItem from="1714071974209" duration="1227000" />
+      <workItem from="1714113040697" duration="82000" />
+      <workItem from="1714320277841" duration="2000" />
+      <workItem from="1714320303494" duration="4000" />
+      <workItem from="1714374856654" duration="62000" />
     </task>
     <servers />
   </component>

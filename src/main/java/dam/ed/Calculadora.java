@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 public class Calculadora {
 
         double suma(double a, double b) {
-            return a + b;
+            return a / b;
         }
 
         double resta(double minuendo, double sustraendo) {
